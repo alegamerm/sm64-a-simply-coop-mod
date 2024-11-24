@@ -1,2 +1,2 @@
-# sm64_random_things_coop
-My mod Random Things in sm64coop !
+# sm64 A Simply Coop Mod
+This mod is based on idkctm (in sm64coop-projects repo of my account)
