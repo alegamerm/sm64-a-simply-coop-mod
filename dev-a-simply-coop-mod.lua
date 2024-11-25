@@ -1,5 +1,5 @@
 -- name: A Simply Coop Mod
--- description: A Simply Coop Mod v1.2 DEV\nBy \\#ec7731\\ALEGAMeR M\n\n\\#dcdcdc\\Hello guys this is a A Simply Coop Mod! *Only compattible with sm64coopdx.*\n\nThis mod dont have special things ngl.\n\nThis simply coop mod its not a ordinary coop mod please dont confussion!
+-- description: A Simply Coop Mod v1.3 DEV\nBy \\#ec7731\\ALEGAMeR M\n\n\\#dcdcdc\\Hello guys this is a A Simply Coop Mod! *Only compattible with sm64coopdx.*\n\nThis mod dont have special things ngl.\n\nThis simply coop mod its not a ordinary coop mod please dont confussion!
 function bhv_custom_goomba_loop(obj)
     -- make goombas leap instead of just jump
     if obj.oGoombaJumpCooldown >= 9 then
