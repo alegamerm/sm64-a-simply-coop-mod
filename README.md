@@ -10,3 +10,6 @@ This mod is based on idkctm (in sm64coop-projects repo of my account)
 
  Q: This mod will receive updates?
  A: Yup
+
+ Q: Its available in sm64ex-coop
+ A: I dont know i have only sm64coopdx and i dont play this mod in sm64ex-coop
